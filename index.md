@@ -7,3 +7,6 @@ What is up
 ```
 System.out.println("Hello World")
 ```
+
+- [ ] Create new Java class
+- [ ] Create UI for workoutList
